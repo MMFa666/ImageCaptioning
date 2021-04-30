@@ -1,0 +1,6 @@
+pillow
+pickleshare
+numpy
+Flask
+urllib3
+gunicorn
